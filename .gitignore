@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.DS_Store
+dictionaries/moedict-hakka/
+dictionaries/sixian_hf.json
+*.json
+!dictionaries/.gitkeep
