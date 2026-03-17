@@ -2,7 +2,7 @@
 _2026-03-17 · June · **v3**_
 
 ## Repo
-https://github.com/juneconcierge0122-del/hakka-espeak (branch: `master`)
+https://github.com/juneconcierge0122-del/hakka-espeak (branch: `main`)
 
 ---
 
